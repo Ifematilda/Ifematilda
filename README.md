@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ifematilda
 - 👀 I’m interested in meeting with software developers
 - 🌱 I’m currently learning different programming languages
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ifeoluwamatilda@gmail.com
 
 <!---
